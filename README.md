@@ -1,14 +1,14 @@
 # AppleScript
 
-1. SwitchMacAppleStoreAppleID.scpt
+## SwitchMacAppleStoreAppleID.scpt
 
 This script is used to switch Mac App Store Apple ID when you have more than one Apple ID active and avoid the trouble when switching between them.
 
-2. SwitchMaciTunesAppleID.scpt
+## SwitchMaciTunesAppleID.scpt
 
 Similiar as the first one. Used in Mac iTunes.
 
-3. Wi-FiToggle.scpt
+## Wi-FiToggle.scpt
 
 Can automatically detect your Wi-Fi status and switch from off to on or on to off. 
 
