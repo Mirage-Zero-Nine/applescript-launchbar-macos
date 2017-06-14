@@ -7,8 +7,10 @@ tell application "System Events" to tell process "iTunes"
 	delay 0.5
 	click menu item 2 of menu 1 of menu bar item 8 of menu bar 1
 	delay 0.2
+	-- Put your Apple ID below.
 	keystroke "Your Apple ID"
 	keystroke tab
+	-- Put your Apple ID password below.
 	keystroke "Your Password"
 	keystroke return
 end tell
