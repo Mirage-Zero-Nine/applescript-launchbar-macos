@@ -1,5 +1,7 @@
 # AppleScript
 
+**These scripts are only tested in LaunchBar.**
+
 ## SwitchMacAppleStoreAppleID.scpt
 
 This script is used to switch Mac App Store Apple ID when you have more than one Apple ID active and avoid the trouble when switching between them.
