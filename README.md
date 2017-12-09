@@ -15,3 +15,7 @@ Similiar as the first one. Used in Mac iTunes.
 Can automatically detect your Wi-Fi status and switch from off to on or on to off. 
 
 **Noticing that the device name is not the same in every machine, you have to check that yourself.**
+
+## Change English Input
+
+Can automatic change input source to English
