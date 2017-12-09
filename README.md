@@ -18,4 +18,4 @@ Can automatically detect your Wi-Fi status and switch from off to on or on to of
 
 ## Change English Input
 
-Can automatic change input source to English
+Can automatically change input source to English
