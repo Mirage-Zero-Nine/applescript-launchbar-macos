@@ -1,3 +1,5 @@
+-- LaunchBar Action Script
+
 tell application "System Events" to tell process "App Store"
 	set frontmost to true
 	key code 53
@@ -9,8 +11,8 @@ tell application "System Events" to tell process "App Store"
 	repeat until exists sheet 1 of window 1
 		delay 0.2
 	end repeat
-	set value of text field 2 of sheet 1 of window 1 to "Your Apple ID Here"
-	set value of text field 1 of sheet 1 of window 1 to "Your Password Here"
-	delay 0.5
+	set value of text field 1 of sheet 1 of window 1 to "Your Apple ID here"
+	keystroke return
+	set value of text field 1 of sheet 1 of window 1 to "Your password here"
 	keystroke return
 end tell
